@@ -6,7 +6,7 @@ export default function Project() {
   const { t } = useLanguage();
 
   return (
-    <section id="project" className="py-20 bg-white dark:bg-slate-900 px-6 overflow-hidden">
+    <section id="projects" className="py-20 bg-white dark:bg-slate-900 px-6 overflow-hidden">
       <div className="max-w-6xl mx-auto">
         
         <div className="flex flex-col md:flex-row items-center gap-12">

@@ -36,7 +36,7 @@ function Navbar() {
                 <div className="hidden md:flex gap-3 items-center">
                     {[
                         { href: "#experience", label: t.nav.experience },
-                        { href: "#project", label: t.nav.project },
+                        { href: "#projects", label: t.nav.projects },
                         { href: "#skills", label: t.nav.skills },
                         { href: "#about", label: t.nav.about },
                         { href: "#contact", label: t.nav.contact }
